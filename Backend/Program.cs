@@ -1,3 +1,7 @@
+/*
+    BOS created by YendisFish for The Holy Church of Terry Davis
+*/
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.

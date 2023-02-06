@@ -31,6 +31,7 @@ public class KernelController : ControllerBase
     {
         while(k.stdin != "")
         {
+            await Task.Delay(1);
             continue;
         }
 
